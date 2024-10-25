@@ -1,7 +1,0 @@
-This one sample task activity
-
-Hello world
-
-I am a Pyhon fullstack developer.
-
-
